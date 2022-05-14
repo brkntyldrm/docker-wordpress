@@ -6,7 +6,7 @@ module.exports = {
     content: [
         './*.php',
         './**/*.php',
-        './//*.php',
+        './//.php',
         './resources/css/*.css',
         './resources/js/*.js',
         './safelist.txt'
